@@ -77,6 +77,7 @@
 ---
 
 ### 💬 [E-Commerce Chatbot - GenAI RAG System](https://github.com/niranj-patel/E-Commerce-Chatbot)
+**🔗 [Live Demo](https://niranjpatel-ecommerce-chatbot.streamlit.app/)**
 
 *Intelligent chatbot with intent recognition and real-time database access*
 
